@@ -1,4 +1,3 @@
-# TASK-SYTYCR
 So You Think You Can Research
 
 In this task, you will build a project that does NOT use a framework, so you can't use Express or React. The purpose of this project is to use new libraries and technologies and learn how to use them through reading the documentation.
